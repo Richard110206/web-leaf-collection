@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "落叶资源化：从城市清洁到生态循环的全栈解决方案"
+title: "城市清洁到生态循环的全新范式"
 snippet: "解析绿脉新生智能系统如何通过多技术融合，实现落叶从收集、处理到资源化的全链路革新，为城市环卫与生态发展提供可持续路径。"
 image: {
-    src: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240",
+    src: "https://img-cdn.lusyoe.com/images/Richard110206/2025/11/15/c29te8leln.png",
     alt: "落叶资源化智能系统"
 }
 publishDate: "2025-11-15 11:39"
