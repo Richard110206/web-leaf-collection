@@ -6,7 +6,7 @@ image: {
     src: "https://img-cdn.lusyoe.com/images/Richard110206/2025/11/15/c29te8leln.png",
     alt: "落叶资源化智能系统"
 }
-publishDate: "2025-11-15 11:39"
+publishDate: "2025-11-13 11:39"
 category: "技术方案"
 author: "绿脉新生技术团队"
 tags: [环卫创新, 生态循环, 智能设备, 资源化技术]
